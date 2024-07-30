@@ -1,0 +1,11 @@
+.DS_Store
+.dart_tool/
+.packages
+.pub/
+.idea/
+dist/
+ios/Podfile.lock
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+doapp_customer

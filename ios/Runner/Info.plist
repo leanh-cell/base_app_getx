@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FLTEnableImpeller</key>
+	<true/>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en_US</string>
+	<key>CFBundleDisplayName</key>
+	<string>IKITECH</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>com.ikitech.store</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>FirebaseAppDelegateProxyEnabled</key>
+	<string>NO</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>https</string>
+		<string>http</string>
+		<string>tel</string>
+		<string>mailto</string>
+	</array>
+	<key>UIBackgroundModes</key>
+    <array>
+        <string>remote-notification</string>
+		<string>bluetooth-central</string>
+        <string>bluetooth-peripheral</string>
+    </array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Ứng dụng không cần quyền này nhưng được yêu cầu bởi API bên dưới. Nếu bạn thấy hộp thoại này, hãy liên hệ với chúng tôi</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Ứng dụng không cần quyền này nhưng được yêu cầu bởi API bên dưới. Nếu bạn thấy hộp thoại này, hãy liên hệ với chúng tôi</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Ứng dụng không cần quyền này nhưng được yêu cầu bởi API bên dưới. Nếu bạn thấy hộp thoại này, hãy liên hệ với chúng tôi</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Ứng dụng không cần quyền này nhưng được yêu cầu bởi API bên dưới. Nếu bạn thấy hộp thoại này, hãy liên hệ với chúng tôi</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Ứng dụng không cần quyền này nhưng được yêu cầu bởi API bên dưới. Nếu bạn thấy hộp thoại này, hãy liên hệ với chúng tôi</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Ứng dụng không cần quyền này nhưng được yêu cầu bởi API bên dưới. Nếu bạn thấy hộp thoại này, hãy liên hệ với chúng tôi</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Ứng dụng không cần quyền này nhưng được yêu cầu bởi API bên dưới. Nếu bạn thấy hộp thoại này, hãy liên hệ với chúng tôi</string>
+	<key>NSCameraUsageDescription</key>
+	<string>$(PRODUCT_NAME) Camera Usage!</string>
+	
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Ứng dụng này cần quyền truy cập vào vị trí để tìm địa chỉ khi mở và ở chế độ nền.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Ứng dụng này cần quyền truy cập vào vị trí để tìm địa chỉ khi mở và ở chế độ nền.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Ứng dụng này cần quyền truy cập vào vị trí để tìm địa chỉ khi mở.</string>
+	<key>NSMicrophoneUsageDeflutscription</key>
+	<string>Chúng tôi cần chấp nhận Quyền sử dụng microphone để phục vụ chức năng nghe gọi</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>$(PRODUCT_NAME) Microphone Usage!</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Chúng tôi cần chấp nhận thư viện ảnh để phục vụ cho quét QR Code, hoặc cho tải nội dung</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Chúng tôi cần chấp nhận thư viện ảnh để phục vụ cho quét QR Code, hoặc cho tải nội dung</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiresPersistentWiFi</key>
+	<true/>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>com.apple.security.network.client</key>
+	<true/>
+</dict>
+</plist>

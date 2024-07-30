@@ -1,0 +1,2 @@
+const FIRST_CODE_SMS = "DV SAHA";
+const NUMBER_CODE_SMS = "8085";

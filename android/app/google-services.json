@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "440764298359",
+    "project_id": "doapp-6413c",
+    "storage_bucket": "doapp-6413c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440764298359:android:2f476ba47c605b1f104272",
+        "android_client_info": {
+          "package_name": "com.doapp.shopuser2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440764298359-5t6tfipvlpdso9iva6u8q2cnjk4r579s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPs6vNq3x70dXgvNH4EWkJ0OMMq4zkYyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440764298359-5t6tfipvlpdso9iva6u8q2cnjk4r579s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440764298359-544mh4bol1q724k36d354gch326qul3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ikitech.pos.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440764298359:android:8b60f7a883e19c2d104272",
+        "android_client_info": {
+          "package_name": "com.ikitech.pos.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440764298359-5t6tfipvlpdso9iva6u8q2cnjk4r579s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPs6vNq3x70dXgvNH4EWkJ0OMMq4zkYyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440764298359-5t6tfipvlpdso9iva6u8q2cnjk4r579s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440764298359-544mh4bol1q724k36d354gch326qul3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ikitech.pos.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440764298359:android:7d27ccf2dfca9532104272",
+        "android_client_info": {
+          "package_name": "com.ikitech.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440764298359-5t6tfipvlpdso9iva6u8q2cnjk4r579s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPs6vNq3x70dXgvNH4EWkJ0OMMq4zkYyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440764298359-5t6tfipvlpdso9iva6u8q2cnjk4r579s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440764298359-544mh4bol1q724k36d354gch326qul3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ikitech.pos.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
